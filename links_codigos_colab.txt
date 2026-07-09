@@ -1,0 +1,16 @@
+Links dos códigos no Google Colab
+
+Trabalho: Geomodelagem, Clima e Produção de Açaí
+Aluno: Rafael Rocha Santa Rita
+
+Parte 1 - Mapeamento climático com ERA5-Land e Cartopy:
+https://colab.research.google.com/drive/1ahBXLfDgiKnX4OWZlIBmYD9VkYpD6zMX#scrollTo=3FJ_qbI66OYt
+
+Parte 2 - Detecção de açaí e barbeiro com YOLO/Ultralytics:
+https://colab.research.google.com/drive/10TSKemb9VocXGb_8wJWa9GeZM6qzFqib#scrollTo=UPH1E5QZ1_xq
+
+Parte 3 - Análise integrada:
+https://colab.research.google.com/github/rafaelrochaplay/geomodelagem/blob/main/%28Parte%203%2903_analise_integrada_acai%282%29.ipynb
+
+
+Os links acima dão acesso aos códigos utilizados no trabalho. Caso algum notebook do GitHub não abra corretamente pela visualização do repositório, copie e cole estes links diretamente no navegador.
